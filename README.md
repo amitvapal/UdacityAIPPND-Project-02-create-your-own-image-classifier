@@ -35,8 +35,9 @@ If desired, we can combile 50M chunks of split files to get original "my_model.p
 <br />
 <br />
 <br />
-References
-1.	https://docs.python.org/3/library/argparse.html 
+References:
+
+1. https://docs.python.org/3/library/argparse.html
 2.	https://pymotw.com/3/argparse/
 
 
