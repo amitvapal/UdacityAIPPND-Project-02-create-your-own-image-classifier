@@ -1,5 +1,5 @@
 # Udacity AI Programming with Python Project
-## Create Your Own Image Classifier with Deep Learning with PyTorch
+## Project-02: Create Your Own Image Classifier with Deep Learning with PyTorch
 
 
 ### I completed this project during 2020 summer holidays at [Udacity](https://udacity.com).
