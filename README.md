@@ -2,7 +2,7 @@
 ## Project-02: Create Your Own Image Classifier with Deep Learning with PyTorch
 
 
-### I completed this project during 2020 summer holidays at [Udacity](https://udacity.com).
+### I completed this project during 2020 summer at [Udacity](https://udacity.com).
 
 In this project I built a Python application that can train an image classifier on a flower dataset, then predict new images using the trained model. 
 
